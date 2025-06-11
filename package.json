@@ -6,14 +6,7 @@
     "@azure/communication-common": "latest",
     "@mistralai/mistralai": "latest",
     "@supabase/supabase-js": "latest",
-    "openai": "latest"
+    "openai": "latest",
+    "multiparty": "latest"
   }
-}
-"dependencies": {
-  "@azure/communication-calling": "latest",
-  "@azure/communication-common": "latest",
-  "@mistralai/mistralai": "latest",
-  "@supabase/supabase-js": "latest",
-  "openai": "latest",
-  "multiparty": "latest"
 }
